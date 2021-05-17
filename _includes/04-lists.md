@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+# Favorite Food
+* Ice-cream
+* Burger
+* Alfahm
+* Pizza
+* Naan
+* Chaat
